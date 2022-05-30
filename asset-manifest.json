@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://cbcache.com/static/css/main.df8deb8a.css",
-    "main.js": "https://cbcache.com/static/js/main.ed658771.js",
+    "main.js": "https://cbcache.com/static/js/main.78c14bc1.js",
     "index.html": "https://cbcache.com/index.html",
     "main.df8deb8a.css.map": "https://cbcache.com/static/css/main.df8deb8a.css.map",
-    "main.ed658771.js.map": "https://cbcache.com/static/js/main.ed658771.js.map"
+    "main.78c14bc1.js.map": "https://cbcache.com/static/js/main.78c14bc1.js.map"
   },
   "entrypoints": [
     "static/css/main.df8deb8a.css",
-    "static/js/main.ed658771.js"
+    "static/js/main.78c14bc1.js"
   ]
 }
